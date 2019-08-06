@@ -102,5 +102,4 @@ export default class Recipe {
 
         this.servings = newServings;
     }
-   
 }
